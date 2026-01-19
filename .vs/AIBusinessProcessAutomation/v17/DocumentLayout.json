@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ProjectMVP\\ai-business-process-automation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA41C01-4353-4F69-94F0-5EC55675C761}|src\\Api\\Api.csproj|f:\\projectmvp\\ai-business-process-automation\\src\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ECA41C01-4353-4F69-94F0-5EC55675C761}|src\\Api\\Api.csproj|solutionrelative:src\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827E0CD3-B72D-47B6-A68D-7590B98EB39B}|src{827E0CD3-B72D-47B6-A68D-7590B98EB39B}|F:\\ProjectMVP\\ai-business-process-automation\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{827E0CD3-B72D-47B6-A68D-7590B98EB39B}|src{827E0CD3-B72D-47B6-A68D-7590B98EB39B}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\ProjectMVP\\ai-business-process-automation\\src\\Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Api\\appsettings.Development.json",
+              "ToolTip": "F:\\ProjectMVP\\ai-business-process-automation\\src\\Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-19T23:39:27.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "F:\\ProjectMVP\\ai-business-process-automation\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "F:\\ProjectMVP\\ai-business-process-automation\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-01-19T23:30:27.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
